@@ -1,0 +1,51 @@
+.navbar{
+    background-color: brown;
+}
+
+.carousel-caption h4,
+.carousel-caption p {
+    color: #000000; 
+}
+
+
+.carousel-caption h3 {
+
+    color: #ffffff; 
+}
+
+.carousel-caption p {
+    color: #000000; 
+}
+
+.carousel-caption h4 {
+    font-family: "Ferro Rosso", serif; 
+}
+
+.carousel-caption p { 
+    font-family: "Georgia", serif; 
+}
+
+
+video {
+    width: 70%;
+    height: auto; 
+    max-width: 70%;
+    display: block; 
+    margin: 0 auto;
+}
+  
+
+#Lainnya {
+    background-color: #2f0808;
+    padding: 20px; 
+}
+
+#waktu {
+    position: absolute;
+    top: 10px;
+    left: 1120px; 
+    color: white; 
+    font-size: 14px;
+}
+
+
